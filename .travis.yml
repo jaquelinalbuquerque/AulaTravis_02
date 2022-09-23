@@ -6,5 +6,5 @@ python:
  - "3.10.4"
 before_script:
  - cd src
- script:
-  - python testes.py
+script:
+ - python testes.py
